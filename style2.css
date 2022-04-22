@@ -1,0 +1,38 @@
+body{
+    background-image: linear-gradient(180deg, rgba(237, 220, 183, 0.417), rgba(132, 85, 46, 0.479));
+}
+
+.header-site{
+    display: flex;
+}
+
+
+.top{
+    display: flex;
+}
+
+*h1 {
+    font-family:"droid serif";
+    margin-right: 70%;
+}
+.cont {
+   margin-left: 60%;
+    font-family: "droid serif";
+}
+
+ul{
+    list-style: none;
+}
+
+ul li{
+    display: inline-flex;
+    color: white;
+}
+
+.mt-2{
+    margin-top: 2px;
+}
+
+.formacao{
+    margin-right: 40%;
+}
