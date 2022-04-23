@@ -4,6 +4,7 @@ body{
 
 .header-site{
     display: flex;
+    border-radius: 2px;
 }
 
 
@@ -30,9 +31,30 @@ ul li{
 }
 
 .mt-2{
-    margin-top: 2px;
+    margin-top: 10%;
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+    margin-top: 10% ;
 }
 
 .formacao{
     margin-right: 40%;
+}
+
+.titlle{
+    padding-top: 3%;
+}
+.container{
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.417), rgba(0, 0, 0, 0.626));
+    border-style:double
+}
+
+.contato{
+   margin-top: 3%;
+   padding-left: 13%;
+    display: flex;
+
 }
